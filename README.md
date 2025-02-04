@@ -17,9 +17,9 @@ b) The cheap main routines are
 2. cheap_startup
 
 Subroutines used are
-a) cubature_triangle
-b) dCHEBVAND
-c) mono_next_grlex
-d) polygauss_2013 / polygauss_2018
-e) tenscheb_norm2sq
+a) cubature_triangle.m
+b) dCHEBVAND.m
+c) mono_next_grlex.m
+d) polygauss_2013.m / polygauss_2018.m
+e) tenscheb_norm2sq.m
 
