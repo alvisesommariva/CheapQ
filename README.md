@@ -12,7 +12,7 @@ The files demo_03 and demo_04 show how to use the software on integrating
 functions and to perform comparisons between the available methods, also
 using cubature compression
 
-The cheap main routines are 
+b) The cheap main routines are 
 1. cubature_polyhedron_cheap
 2. cheap_startup
 
